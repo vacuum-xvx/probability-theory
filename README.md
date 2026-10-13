@@ -19,10 +19,3 @@
 ## Дополнительно
 
 - [Пример оформления решений](example/Пример_ноутбука_с_решением_домашних_задач.ipynb)
-
-## Запуск
-
-```bash
-python -m pip install -r requirements.txt
-jupyter notebook
-```
